@@ -1,4 +1,4 @@
-
+<img src="https://github.com/texas334/ROSHAN-/blob/master/ROSHAN%20.D.%20PRASDA.png">
 <h1 align="center">Hi 👋, I'm ROSHAN .D. PRASAD</h1>
 <h3 align="center">A passionate MERN FULL STACK Developer from India</h3>
 
